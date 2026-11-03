@@ -3,6 +3,9 @@
 **Give coding tasks in AI Hub's own window, or from your phone over Telegram, and they get done on your computer,
 the way paid coding agents do them. It runs on free AI models, with no API key and no subscription.**
 
+> **Donate:** AI Hub is free. If it saves you time, support it with Binance Pay (account **User-7da9b**):
+> [the QR code](#donate). No Binance account yet? [Sign up with our referral link](https://account.binance.com/register?ref=147135668&registerChannel=user_center).
+
 - **An app for Mac and Windows.** Install it like any app. Its window is where you talk to the agent, and it is
   also the browser the agent works in: nothing else to install. It opens by itself at every login.
 - **Free models.** The agent works through AI chat sites you sign in to. Gemini (free tier, Flash) is on from the
@@ -95,3 +98,6 @@ AI Hub is free. If it saves you time, you can support it with **Binance Pay**: s
 app (account **User-7da9b**).
 
 <img src="donate-binance.jpg" alt="Binance Pay QR code — User-7da9b" width="240">
+
+No Binance account yet? Sign up with our referral link (referral ID **147135668**):
+<https://account.binance.com/register?ref=147135668&registerChannel=user_center>
